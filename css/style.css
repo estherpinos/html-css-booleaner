@@ -30,7 +30,7 @@ main{
   margin: 20px;
 }
 
-/* Section Titoloefoto */
+/* SECTION TITOLOEFOTO */
 
 #tittoloprincipale{
   font-size: 2em;
@@ -54,9 +54,9 @@ main{
 
 /* SECTION TEXT */
 
-.text {
+.text1 {
   margin-top: 20px;
-  font-size: 1.4em;
+  font-size: 1.2em;
 }
 
 
@@ -64,3 +64,12 @@ main{
   background-color: yellow;
 }
 
+/* SECTION LIST */
+
+.sectionlist{
+  margin-top: 30px;
+}
+
+.list{
+  font-size: 1.2em;
+}

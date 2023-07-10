@@ -52,8 +52,15 @@ main{
   font-size: 0,1em;
 }
 
+/* SECTION TEXT */
+
+.text {
+  margin-top: 20px;
+  font-size: 1.4em;
+}
 
 
-
-
+.parolegialle{
+  background-color: yellow;
+}
 

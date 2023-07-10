@@ -1,4 +1,10 @@
 
+/* GENERALE */
+
+*{
+  margin: 1px;
+  font-size: 20px;
+}
 
 /* Header */
 
@@ -8,18 +14,46 @@
   margin-top: 5%;
   margin-left: 1%;
 }
-#pattern{
-  text-align: center;
-  width: 100%;
-  height: 50%;
-
-}
 
 header{
   background-color: rgba(110, 59, 250, 0.856);
   width: 100%;
   height: 170px;
   background-image: url(../img/pattern.png);
-  
 }
+
+
+
+/* Main */
+
+main{
+  margin: 20px;
+}
+
+/* Section Titoloefoto */
+
+#tittoloprincipale{
+  font-size: 2em;
+}
+
+.titolo12{
+  font-size: 0,1em;
+  }
+
+#boolean{
+  color: blue;
+}
+
+.primiimagine{
+  padding-top: 10px;
+}
+
+.titolo34{
+  font-size: 0,1em;
+}
+
+
+
+
+
 
